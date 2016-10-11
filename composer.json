@@ -1,0 +1,18 @@
+{
+    "name": "pamil/benchmarks",
+    "require": {
+        "phpbench/phpbench": "^0.12.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kamil Kokot",
+            "email": "kamil@kokot.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pamil\\Benchmarks\\": "src/"
+        }
+    }
+}
